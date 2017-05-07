@@ -181,7 +181,7 @@
 
 
 ;;启动evil
-(evil-mode -1)
+(evil-mode 1)
 ;;
 (setcdr evil-insert-state-map nil)
 (define-key evil-insert-state-map [escape] 'evil-normal-state)

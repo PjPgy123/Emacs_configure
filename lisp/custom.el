@@ -22,4 +22,4 @@
  '(js2-external-variable ((t (:foreground "dark slate gray")))))
 
 ;;设置默认工作目录
-(setq default-directory "C:\Emacs25.1")
+(setq default-directory "/home/pjpgy/文档/Emacs25.1/Emacs25.1")

@@ -17,7 +17,7 @@
 (setq initial-frame-alist (quote ((fullscreen . maximized))))
 
 ;;设置默认字体
-(set-default-font "微软雅黑-15")
+;;(set-default-font "微软雅黑-15")
 
 ;;高亮当前行
 (global-hl-line-mode t)
